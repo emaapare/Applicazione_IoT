@@ -1,0 +1,7 @@
+il software funziona, rispetta tutti i punti che sono stati indicati
+
+sicuramente non è ottimizzato al massimo, se riesce mi potrebbe dire come ottimizzarlo o renderlo piu efficiente?
+
+il tutto è contenuto all'interno della libreria "utilities" importata poi nella soluzione AppIoT.
+
+quando verrà testato è importante cambiare il path in quello corretto, dove sarà presente il file config.txt
